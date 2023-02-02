@@ -1,7 +1,11 @@
 package ejemplos.bucles;
 
 import java.util.Scanner;
-
+/*
+ * Pruebas (valor/es introducidos) : (respuestas)
+ * 
+ * 1/2/3/0/-1 : 6
+ */ 
 public class Ejercicio1 {
 
 	public static void main(String[] args) {

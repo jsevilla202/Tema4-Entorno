@@ -1,7 +1,16 @@
 package ejemplos.condicionales;
 
 import java.util.Scanner;
-
+/*
+ * Pruebas (valor/es introducidos) : (respuestas)
+ * 
+ * 4 : No es casi-cero
+ * 1 : No es casi-cero
+ * -1 : No es casi-cero
+ * 4,2 : No es casi-cero
+ * 0,4 : Es casi-cero
+ * -0,4 : Es casi-cero
+ */ 
 public class Ejercicio3 {
 
 	public static void main(String[] args) {

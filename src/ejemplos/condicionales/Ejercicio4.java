@@ -1,7 +1,19 @@
 package ejemplos.condicionales;
 
 import java.util.Scanner;
-
+/*
+ * Pruebas (valor/es introducidos) : (respuestas)
+ * 
+ * UNO/UNO : 2
+ * DOS/DOS : 4
+ * TRES/TRES : 6
+ * CUATRO/CUATRO : 8
+ * CINCO/CINCO : 10
+ * SEIS/SEIS : 12
+ * UNO/a : El valor de la segunda tirada es erróneo
+ * a/UNO : El valor de la primera tirada es erróneo
+ * a/a : El valor de la primera tirada es erróneo El valor de la segunda tirada es erróneo
+ */ 
 public class Ejercicio4 {
 
 	public static void main(String[] args) {

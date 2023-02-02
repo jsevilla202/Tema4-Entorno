@@ -1,7 +1,18 @@
 package ejemplos.condicionales;
 
 import java.util.Scanner;
-
+/*
+ * Pruebas (valor/es introducidos) : (respuestas)
+ * 
+ * 6/4/B : La resta de los dos números es: 2.0
+ *  6/4/A : La suma de los números es: 10.0
+ *  6/4/C : La multiplicación de los dos números es: 24.0
+ *  6/4/D : La división entre los dos números es: 1.5
+ *  -1/0/A : La suma de los números es: -1.0
+ *  -1/0/D : ERROR: No se puede dividir por 0.
+ *  0/-1/D : La división entre los dos números es: -0.0
+ *  4/6/a : ERROR: No ha introducido una opción correcta.
+ */ 
 public class Ejercicio3switch {
 
 	public static void main(String[] args) {

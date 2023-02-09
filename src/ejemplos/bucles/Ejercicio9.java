@@ -1,6 +1,14 @@
 package ejemplos.bucles;
 
 import java.util.Scanner;
+/*
+ * Pruebas (valor/es introducidos) : (respuestas)
+ * 
+ * -1 : No ha introducido un entero positivo
+ * 0 : No ha introducido un entero positivo
+ * 1 : No es primo
+ * 2 : Es primo
+ */ 
 
 public class Ejercicio9 {
 

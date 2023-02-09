@@ -1,5 +1,9 @@
 package ejemplos.bucles;
-
+/*
+ * Pruebas (valor/es introducidos) : (respuestas)
+ * 
+ * 
+ */ 
 public class TablaMultiplicar {
 
 	public static void main(String[] args) {

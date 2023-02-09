@@ -5,6 +5,9 @@ import java.util.Scanner;
  * Pruebas (valor/es introducidos) : (respuestas)
  * 
  * 1/2/3/0/-1 : 6
+ * 0/-1 : 0
+ * -1 : 0
+ * 1/-1 : 1
  */ 
 public class Ejercicio1 {
 

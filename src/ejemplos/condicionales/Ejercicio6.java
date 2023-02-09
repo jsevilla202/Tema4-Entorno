@@ -1,6 +1,16 @@
 package ejemplos.condicionales;
 
 import java.util.Scanner;
+/*
+ * Pruebas (valor/es introducidos) : (respuestas)
+ * 
+ * 1/2/3 : La ecuación no tiene solución real.
+ * 0/2/3 : 
+ * 1/0/3 : La ecuación no tiene solución real.
+ * 1/2/0 : Las soluciones de la ecuación son: -1.0, -1.0
+ * 0/0/0 :
+ * 1/0/0 : Las soluciones de la ecuación son: 0.7071067811865476, -0.7071067811865476
+ */ 
 
 /* En la resolución de una ecuación de 2º grado tenemos que tener cuidado con dos cosas:
  * 1. Que el valor del interior de la raíz no sea negativo.

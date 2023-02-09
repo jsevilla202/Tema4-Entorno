@@ -2,6 +2,13 @@ package ejemplos.bucles;
 
 import java.util.Scanner;
 
+/*
+ * Pruebas (valor/es introducidos) : (respuestas)
+ * 
+ * MAYOR/MENOR/MAYOR/IGUAL : ¡¡ENHORABUENA!! Has acertado
+ * IGUAL : ¡¡ENHORABUENA!! Has acertado
+ * MENOR/MENOR/MENOR/MENOR/MENOR/MENOR/IGUAL : ¡¡ENHORABUENA!! Has acertado
+ */ 
 public class Ejercicio5 {
 
 	public static void main(String[] args) {
@@ -15,9 +22,9 @@ public class Ejercicio5 {
 			System.out.println("¿Es el número " + numero + "?");
 			respuesta = sc.nextLine();
 			
-			if(respuesta.equals("MAYOR")) {
+			if(respuesta.equals("MENOR")) {
 				mayor = numero;
-			} else if(respuesta.equals("MENOR")) {
+			} else if(respuesta.equals("MAYOR")) {
 				menor = numero;
 			}
 			
